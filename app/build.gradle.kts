@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.eduardo.task"
+    namespace = "com.fabio.task"
     compileSdk = 35
 
     defaultConfig {
