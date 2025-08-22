@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.eduardo.task"
+        applicationId = "com.fabio.task"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
