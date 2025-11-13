@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916372046086",
+    "project_id": "kanban-9d940",
+    "storage_bucket": "kanban-9d940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916372046086:android:4755ba420ecfacc0879e87",
+        "android_client_info": {
+          "package_name": "com.fabio.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4H8Q98AYsCOlJggYtZVDa1X1zpVHjkGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
